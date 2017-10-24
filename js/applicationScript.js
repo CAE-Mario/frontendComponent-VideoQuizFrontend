@@ -49,7 +49,8 @@ var init = function() {
     //end parameter initiation
     nextQuiz(event);
   })
-
+  window.quizCounter = 0; 
+  nextQuiz();
 
 }
 
