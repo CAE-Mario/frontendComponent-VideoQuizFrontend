@@ -61,7 +61,7 @@ var nextQuiz = function(event){
 
 //end variable declaration
 
-  client.sendRequest("GET", "getQuiz/", "", "", {}, false,
+  client.sendRequest("GET", "getQuiz/"+window.quizCounter, "", "", {}, false,
   function(data, type) {
     console.log(data);
   },
