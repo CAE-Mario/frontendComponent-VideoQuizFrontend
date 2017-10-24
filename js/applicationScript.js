@@ -77,7 +77,6 @@ var nextQuiz = function(event){
          $('button').hide();
     } 
 
-
   },
   function(error) {
     console.log(error);
