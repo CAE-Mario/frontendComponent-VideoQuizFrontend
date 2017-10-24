@@ -63,7 +63,9 @@ var nextQuiz = function(event){
 
   client.sendRequest("GET", "getQuiz/"+window.quizCounter, "", "", {}, false,
   function(data, type) {
-    console.log(data); 
+    console.log(data);  
+ 
+
 
   },
   function(error) {
