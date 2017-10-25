@@ -60,7 +60,7 @@ var nextQuiz = function(event){
 //start variable declaration
 
 //end variable declaration
-
+    window.quizCounter +=1:
   client.sendRequest("GET", "videoquiz/getQuiz/"+window.quizCounter, "", "", {}, false,
   function(data, type) {
     console.log(data);  
