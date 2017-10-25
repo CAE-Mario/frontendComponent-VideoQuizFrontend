@@ -40,7 +40,7 @@ var init = function() {
 
   };
 
-  client = new Las2peerWidgetLibrary("http://cloud10.dbis.rwth-aachen.de:8086/videoquiz/", iwcCallback);
+  client = new Las2peerWidgetLibrary("http://cloud10.dbis.rwth-aachen.de:8086/videoquiz", iwcCallback);
 
   $('#button_355e0').on('click', function() {
     //start parameter initiation
