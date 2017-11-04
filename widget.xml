@@ -2,7 +2,7 @@
 <Module>
   <ModulePrefs title="VideoQuiz" description="A VideoQuiz"
     author="Mario" author_email=""
-    width="500" height="500">
+    width="509" height="532">
 
     <Require feature="opensocial-0.8"></Require>
     <Require feature="openapp"></Require>
@@ -95,9 +95,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 <span id='question'  style="position: absolute; left: 60px; top: 315px; width: 309px; height: 30px; ">question goes here</span>
 
    
-<button id='button_355e0'  style="position: absolute; left: 369.015625px; top: 439.5078125px; width: 100px; height: 50px; ">Continue</button>
-
-   
 <label id=''   style="position: absolute; left: 60.015625px; top: 403.5078125px;  "><input name="quiz"  type="radio" id="radioC"   >Option</label>
 
    
@@ -111,6 +108,9 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
    
 <iframe id='video'  style="position: absolute; left: 10px; top: 0px; width: 490px; height: 300px; "> </iframe>
+
+   
+<button id='button'  style="position: absolute; left: 360px; top: 468px; width: 100px; height: 50px; ">Weiter</button>
 
  
   </div>
