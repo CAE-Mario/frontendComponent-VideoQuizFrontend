@@ -98,7 +98,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 <button id='button_355e0'  style="position: absolute; left: 369.015625px; top: 439.5078125px; width: 100px; height: 50px; ">Continue</button>
 
    
-<label id=''  style="position: absolute; left: 60.015625px; top: 403.5078125px;  "><input name="quiz"  type="radio" id="radioC"   >Option</label>
+<label id=''   style="position: absolute; left: 60.015625px; top: 403.5078125px;  "><input name="quiz"  type="radio" id="radioC"   >Option</label>
 
    
 <label id=''  style="position: absolute; left: 277.015625px; top: 403.5078125px;  "><input name="quiz"  type="radio" id="radioD"   >Option</label>
